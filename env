@@ -1,0 +1,6 @@
+MAIL_HOST="sandbox.smtp.mailtrap.io"
+MAIL_USERNAME="883768c12cac21"
+MAIL_PASSWORD="dcace4f8a41a81"
+MAIL_PORT=465
+MAIL_AUTH=true
+MAIL_SECURE=tls
